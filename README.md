@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rayane
-- 👀 I’m interested in aprender novas linguagens
-- 🌱 I’m currently learning a programar
+- 👋 Oi, meu nome é Rayane
+- 👀 Estou interessada a aprender novas linguagens
+- 🌱 Estou aprendendo a programar
 - 💞️ Meu e-mail é rayane.anjos@escola.pr.gov.br
